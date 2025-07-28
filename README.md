@@ -2,7 +2,7 @@ ________________________________________
 MBT Particle Forge & Quantum Chip Experiment
 Motion = Being Theory (MBT) Experimental Framework
 Overview
-This repository contains the full experimental package for testing and developing the MBT Particle Forge — a novel approach to:
+This repository contains the full experimental package for testing and developing the MBT Particle Forge a novel approach for
 •	Detecting laser beam deflection caused by MBT-predicted spacetime curvature effects.
 •	Converting photons into trapped “forged mass” within a rotating vacuum environment.
 •	Scaling the process toward room-temperature quantum chips and field-stable qubits.
@@ -21,9 +21,6 @@ What’s Inside
 •	Quantum chip roadmap from proof-of-concept to scalable qubit arrays.
 •	Material sourcing & handling protocols.
 •	Contingency troubleshooting guide for rapid iteration.
-4. Governance & Licensing
-•	IP vs Open Science Strategy – What’s openly shared vs. what may be protected for commercial deployment.
-•	All code and documentation are licensed under MIT (unless otherwise stated).
 ________________________________________
 Quick Start
 Replication (Minimal Kit)
