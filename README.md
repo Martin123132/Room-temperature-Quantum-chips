@@ -42,6 +42,3 @@ We welcome:
 •	Collaborations on quantum device engineering.
 Fork, pull request, or open an issue to start collaborating.
 ________________________________________
-Contact
-•	Lead: Martin Ollett (MBT Theory)
-•	AI Co-Developer: ChatGPT (OpenAI)
